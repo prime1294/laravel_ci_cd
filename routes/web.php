@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+//this commit added by parag
 Route::get('/', function () {
     return view('welcome');
 });
